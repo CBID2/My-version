@@ -36,7 +36,7 @@ export default function Home() {
         <meta name="title" content="LinksHub" />
         <meta
           name="description"
-          content="LinksHub is the ultimate hub of ready-to-use tech resources. Discover free tools and libraries to streamline your development process and build better projects."
+          content="LinksHub is the ultimate hub of ready-to-use tech resources. Discover free tools and libraries to learn develop your tech skills and build better projects."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
@@ -56,7 +56,9 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work."
+          content=" LinksHub is a hub of links made for and by the community. Whether  you're a new developer, a seasoned technical writer, or a customer service representative looking to learn how to code, we got the resources you need to aid you in your learning journey.
+This will emphasize that LinksHub is for everyone and not just developers.
+So far, I got an approval from Aftan: **https://discord.com/channels/1064977356198006805/1168976025649156176/1185781770696806521**"
         />
         <meta
           property="og:image"
